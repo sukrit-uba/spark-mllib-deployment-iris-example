@@ -8,9 +8,9 @@ server.py initializes a spark context and runs a server on port 5000 combining a
 
 Runninning server.py using spark-submit runs the whole app. 
 
-Origional tutorial is here: 
-https://www.codementor.io/spark/tutorial/building-a-recommender-with-apache-spark-python-example-app-part1
-https://www.codementor.io/spark/tutorial/building-a-web-service-with-apache-spark-flask-example-app-part2
+Origional tutorial is here: <br>
+https://www.codementor.io/spark/tutorial/building-a-recommender-with-apache-spark-python-example-app-part1<br>
+https://www.codementor.io/spark/tutorial/building-a-web-service-with-apache-spark-flask-example-app-part2<br>
 
-code repo;
+code repo<br>
 https://github.com/jadianes/spark-movie-lens
