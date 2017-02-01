@@ -7,3 +7,10 @@ app.py builds a flask app build on top of the sparkmllib model accepting post an
 server.py initializes a spark context and runs a server on port 5000 combining app.py and engine.py. Python module named cherrypy is used to run the server. 
 
 Runninning server.py using spark-submit runs the whole app. 
+
+Origional tutorial is here: 
+https://www.codementor.io/spark/tutorial/building-a-recommender-with-apache-spark-python-example-app-part1
+https://www.codementor.io/spark/tutorial/building-a-web-service-with-apache-spark-flask-example-app-part2
+
+code repo;
+https://github.com/jadianes/spark-movie-lens
